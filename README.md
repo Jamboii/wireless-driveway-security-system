@@ -15,3 +15,7 @@ The system uses motion sensing and distance detection sensors which signal a cam
 
 ![software architecture](./images/swarch.png)
 
+# Project Team Members
+
+ - Sarah Fontana
+ - Alex Benasutti
